@@ -1,0 +1,7 @@
+{
+  "name": "tabs-hiding-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
